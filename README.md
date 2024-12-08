@@ -10,3 +10,7 @@ This is a little library of various mini programming exercises mostly from class
 - The first calculates distance between to points plotted on cartesian coordinates.
 - The second converts input seconds to hours, minutes, and remaining seconds.
 - The third calculates tax of an individual and their spouse.
+### Exponent
+- Takes user input to raise a given number to a given exponent.
+### Pointers
+- An introductory exercise for pointers in C.
