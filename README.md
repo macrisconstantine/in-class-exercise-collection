@@ -12,3 +12,5 @@ This is a little library of various mini programming exercises mostly from class
 - The third calculates tax of an individual and their spouse.
 ### Exponent
 - Takes user input to raise a given number to a given exponent.
+### Pointers
+- An introductory exercise for pointers in C.
