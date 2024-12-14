@@ -16,3 +16,5 @@ This is a little library of various mini programming exercises mostly from class
 - An introductory exercise for pointers in C.
 ### If Grade
 - Input a score (out of 100) and recieve a letter-grade and comment. 
+### Income Tax
+- Input an annual salary, recieve a net salary after tax.
