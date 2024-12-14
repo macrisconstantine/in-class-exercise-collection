@@ -14,3 +14,5 @@ This is a little library of various mini programming exercises mostly from class
 - Takes user input to raise a given number to a given exponent.
 ### Pointers
 - An introductory exercise for pointers in C.
+### If Grade
+- Input a score (out of 100) and recieve a letter-grade and comment. 
