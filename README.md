@@ -18,3 +18,5 @@ This is a little library of various mini programming exercises mostly from class
 - Input a score (out of 100) and recieve a letter-grade and comment. 
 ### Income Tax
 - Input an annual salary, recieve a net salary after tax.
+### Least Common Denominator
+- Return both the least common denominatory and the greatest common factor of command line inputs.
