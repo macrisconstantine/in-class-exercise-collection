@@ -21,4 +21,4 @@ This is a little library of various mini programming exercises mostly from class
 ### Least Common Denominator
 - Return both the least common denominatory and the greatest common factor of command line inputs.
 ### Malloc Practice
-- Malloc practice exercise 
+- Command-line input summed to practice and demonstrate pointers.  
