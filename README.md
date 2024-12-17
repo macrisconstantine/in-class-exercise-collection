@@ -20,3 +20,5 @@ This is a little library of various mini programming exercises mostly from class
 - Input an annual salary, recieve a net salary after tax.
 ### Least Common Denominator
 - Return both the least common denominatory and the greatest common factor of command line inputs.
+### Malloc Practice
+- Malloc practice exercise 
