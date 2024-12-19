@@ -26,3 +26,5 @@ This is a little library of various mini programming exercises mostly from class
 - Input a series of integers through the command line, and return the min, max, and average of the numbers.
 ### Peaches
 - Calculate the cost of peaches by dividing the cost by the quantity to find the cost/peach.
+### Realloc Function Practice
+- A demonstrative script that lets you input values in the command-line and see the actual memory addresses used to store the values.
