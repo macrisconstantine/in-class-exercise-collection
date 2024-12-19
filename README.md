@@ -24,3 +24,5 @@ This is a little library of various mini programming exercises mostly from class
 - Command-line input summed to practice and demonstrate pointers.
 ### Min, Max, Sum
 - Input a series of integers through the command line, and return the min, max, and average of the numbers.
+### Peaches
+- Calculate the cost of peaches by dividing the cost by the quantity to find the cost/peach.
