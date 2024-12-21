@@ -28,3 +28,5 @@ This is a little library of various mini programming exercises mostly from class
 - Calculate the cost of peaches by dividing the cost by the quantity to find the cost/peach.
 ### Realloc Function Practice
 - A demonstrative script that lets you input values in the command-line and see the actual memory addresses used to store the values.
+### Secretize
+- Takes an input word and secretizes it by replacing all letters except the first and last with a blank.
