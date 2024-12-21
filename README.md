@@ -30,3 +30,5 @@ This is a little library of various mini programming exercises mostly from class
 - A demonstrative script that lets you input values in the command-line and see the actual memory addresses used to store the values.
 ### Secretize
 - Takes an input word and secretizes it by replacing all letters except the first and last with a blank.
+### Show Primes
+- Shows prime numbers within a given range.
