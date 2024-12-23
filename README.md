@@ -32,3 +32,5 @@ This is a little library of various mini programming exercises mostly from class
 - Takes an input word and secretizes it by replacing all letters except the first and last with a blank.
 ### Show Primes
 - Shows prime numbers within a given range.
+### Calculate Tax
+- Very simple C script to calculate the tax on an input income figure.
