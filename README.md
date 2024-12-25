@@ -34,3 +34,6 @@ This is a little library of various mini programming exercises mostly from class
 - Shows prime numbers within a given range.
 ### Calculate Tax
 - Very simple C script to calculate the tax on an input income figure.
+### Find Longest Line, Sort Num Array
+- Take input from a text file and return the longest line from the file. 
+- Sorr an input array of integers into two halves, smaller numbers on the left and larger on the right. 
