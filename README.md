@@ -36,4 +36,6 @@ This is a little library of various mini programming exercises mostly from class
 - Very simple C script to calculate the tax on an input income figure.
 ### Find Longest Line, Sort Num Array
 - Take input from a text file and return the longest line from the file. 
-- Sort an input array of integers into two halves, smaller numbers on the left and larger on the right. 
+- Sort an input array of integers into two halves, smaller numbers on the left and larger on the right.
+### Structures
+- Practicing sctructs in C by creating a monster struct with attributes like HP and damage.
