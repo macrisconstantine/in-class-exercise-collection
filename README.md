@@ -39,3 +39,5 @@ This is a little library of various mini programming exercises mostly from class
 - Sort an input array of integers into two halves, smaller numbers on the left and larger on the right.
 ### Structures
 - Practicing sctructs in C by creating a monster struct with attributes like HP and damage.
+### Input Array
+- Read and manipulate input integer array in C.
