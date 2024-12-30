@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Give me a char followed by a number (lol if u find this easter egg that's massive almost like the 6 mil vexbolt boutta lose in 2 days):");
+    printf("Give me a char followed by a number (if u find this easter egg that's massive almost like the 6 mil vexbolt boutta lose in 2 days):");
     
     char c;
     int i;
