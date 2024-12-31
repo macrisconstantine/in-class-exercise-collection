@@ -41,3 +41,5 @@ This is a little library of various mini programming exercises mostly from class
 - Practicing sctructs in C by creating a monster struct with attributes like HP and damage.
 ### Input Array
 - Read and manipulate input integer array in C.
+### Input Character
+- Input and return character and integer.
